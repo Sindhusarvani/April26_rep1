@@ -1,0 +1,5 @@
+dname, deptaddress
+it, hyd
+hr, mum
+sales, chennai
+marketing, blore
